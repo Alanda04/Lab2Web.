@@ -21,3 +21,8 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 ![Screenshot_10](https://user-images.githubusercontent.com/52759649/113553232-a4543000-9621-11eb-8f21-efaad6635a91.png)
 lalu hasil dari code tersebut seperti ini jika di buka di browser.
 ![Screenshot_11](https://user-images.githubusercontent.com/52759649/113553260-b03ff200-9621-11eb-8f9b-24585ae4fe2f.png)
+tugas 1, penggantian kode dan hasilnya
+![Screenshot_12](https://user-images.githubusercontent.com/52759649/113556416-a371cd00-9626-11eb-87e3-7e52187dd77b.png)
+![Screenshot_13](https://user-images.githubusercontent.com/52759649/113556421-a4a2fa00-9626-11eb-9c52-5e0e23284f21.png)
+2. 
+  
