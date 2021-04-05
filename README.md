@@ -24,5 +24,6 @@ lalu hasil dari code tersebut seperti ini jika di buka di browser.
 tugas 1, penggantian kode dan hasilnya
 ![Screenshot_12](https://user-images.githubusercontent.com/52759649/113556416-a371cd00-9626-11eb-87e3-7e52187dd77b.png)
 ![Screenshot_13](https://user-images.githubusercontent.com/52759649/113556421-a4a2fa00-9626-11eb-9c52-5e0e23284f21.png)
-2. 
-  
+2. h1 adalah elemen itu sendiri untuk membuat heading teks sedangkan Intro h1 adalah id unik yang berasal dari elemen h1
+3. yang akan tampil terlebih dahulu adalah CSS secara internal karena Perubahan hanya terjadi pada 1 halaman Class dan ID bisa digunakan oleh internal stylesheet Tidak perlu meng-upload beberapa file karena HTML dan CSS bisa digunakan di file yang sama. Jika CSS Eksternal Halaman belum tampil secara sempurna hingga file CSS selesai dipanggil. jika menggunakan Inline CSS sangat tidak direkomendasikan karena Inline CSS harus diterapkan pada setiap elemen walaupun sangat simpel untuk perbaikan cepat.
+4. yang akan tampil terlebih dahulu adalah Id karena awal eksekusi dari Id lalu ke Class.
